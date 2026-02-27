@@ -7,7 +7,7 @@ const App = () => {
       <CustomCursor />
       {/* Navbar is at the top level — no parent transform/z-index trapping it */}
       <Navbar />
-      <div className="bg-dark-bg pt-16">
+      <div className="bg-dark-bg pt-16 overflow-x-hidden w-full">
         <Hero />
         <About />
         <Skills />
