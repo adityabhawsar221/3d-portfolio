@@ -67,7 +67,7 @@ const Hero = () => {
             className="flex flex-wrap gap-4 mt-8 items-center"
           >
             <a
-              href="https://drive.google.com/file/d/1z78RkbG6OtsEK0oo8bM78ONUrBN99csl/view?usp=sharing"
+              href="https://drive.google.com/file/d/1nqZO08hfl60XqO-hA5a6dRStpu8vLlS3/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
               className="px-6 py-3 rounded-xl bg-gradient-to-r from-primary to-secondary text-white font-bold flex items-center gap-2 hover:shadow-[0_0_20px_rgba(100,108,255,0.6)] transition-all duration-300 transform hover:-translate-y-1"
